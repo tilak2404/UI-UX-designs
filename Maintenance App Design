@@ -1,4 +1,5 @@
 The design is part of an assignment named "Maintenance Mate," which is used by employees, managers, and technicians. Employees raise complaints about issues with machines and the repairs needed. The manager reviews these complaints and schedules maintenance, being responsible for all maintenance schedules and monitoring analytics and repair tasks. Technicians follow the schedule and ensure that repairs are completed on time. Each user has their own profile and login page. Only managers can edit the departments and machines, while both employees and technicians can add and view departments and machines. This design showcases web design and user experience skills, providing a clean and intuitive interface for all users to access key information and services effortlessly.
+
 Maintenance App Design - Figma Design Link - https://www.figma.com/design/U7C4MAoAkRdjIoanBOgRnp/Maintenance?node-id=0-1&t=gRLZXI6Ih9UlJuNJ-1
 
 Maintenance App Design - Figma Prototype Link - https://www.figma.com/proto/U7C4MAoAkRdjIoanBOgRnp/Maintenance?node-id=44-164&t=qky3ax0syT0A41H7-1&scaling=contain&content-scaling=fixed&page-id=0%3A1
