@@ -1,1 +1,1 @@
-
+The webpage Outsourcing.GPT to make outsourcing easier for businesses. The site has simple login and sign-up pages, and sections for different Al assistants, each focusing on things like cost analysis, vendor evaluation, and risk management. To make it easy for users, I created short, clear questions for each assistant, each only five words long.Key features include easy account access, specialized Al roles, and sections for marketing, business, people, and entrepreneurs.
